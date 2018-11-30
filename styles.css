@@ -1,0 +1,27 @@
+.potato {
+    color:Black;
+    text-align:center;
+}
+
+.awards {
+    text-align:center;
+}
+ body {text-align:center;}
+ 
+ img {
+     width: 500px;
+     
+     text-align:center;
+}
+.hm {
+    font-family: 'Share Tech Mono', monospace;   
+}
+.bkb {
+    font-family: 'Sedgwick Ave', cursive;
+}
+.hurg {
+    font-family: 'Unlock', cursive;
+}
+.jeb {font-family: 'Playfair Display', serif;
+    
+}
